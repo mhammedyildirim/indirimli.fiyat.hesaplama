@@ -1,0 +1,6 @@
+C:\Users\muhammed\Desktop\c# denemeler\indirimli.fiyat.hesaplama\indirimli.fiyat.hesaplama\bin\Debug\indirimli.fiyat.hesaplama.exe.config
+C:\Users\muhammed\Desktop\c# denemeler\indirimli.fiyat.hesaplama\indirimli.fiyat.hesaplama\bin\Debug\indirimli.fiyat.hesaplama.exe
+C:\Users\muhammed\Desktop\c# denemeler\indirimli.fiyat.hesaplama\indirimli.fiyat.hesaplama\bin\Debug\indirimli.fiyat.hesaplama.pdb
+C:\Users\muhammed\Desktop\c# denemeler\indirimli.fiyat.hesaplama\indirimli.fiyat.hesaplama\obj\Debug\indirimli.fiyat.hesaplama.csprojAssemblyReference.cache
+C:\Users\muhammed\Desktop\c# denemeler\indirimli.fiyat.hesaplama\indirimli.fiyat.hesaplama\obj\Debug\indirimli.fiyat.hesaplama.exe
+C:\Users\muhammed\Desktop\c# denemeler\indirimli.fiyat.hesaplama\indirimli.fiyat.hesaplama\obj\Debug\indirimli.fiyat.hesaplama.pdb
